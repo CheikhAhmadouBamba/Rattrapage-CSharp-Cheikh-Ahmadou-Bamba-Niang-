@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\c#\new\RattrapageCSharp\bin\Debug\RattrapageCSharp.exe.config
+C:\Users\Admin\Documents\c#\new\RattrapageCSharp\bin\Debug\RattrapageCSharp.exe
+C:\Users\Admin\Documents\c#\new\RattrapageCSharp\bin\Debug\RattrapageCSharp.pdb
+C:\Users\Admin\Documents\c#\new\RattrapageCSharp\obj\Debug\RattrapageCSharp.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\c#\new\RattrapageCSharp\obj\Debug\RattrapageCSharp.Properties.Resources.resources
+C:\Users\Admin\Documents\c#\new\RattrapageCSharp\obj\Debug\RattrapageCSharp.views.Home.resources
+C:\Users\Admin\Documents\c#\new\RattrapageCSharp\obj\Debug\RattrapageCSharp.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\c#\new\RattrapageCSharp\obj\Debug\RattrapageCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\c#\new\RattrapageCSharp\obj\Debug\RattrapageCSharp.exe
+C:\Users\Admin\Documents\c#\new\RattrapageCSharp\obj\Debug\RattrapageCSharp.pdb
+C:\Users\Admin\Documents\c#\new\RattrapageCSharp\obj\Debug\RattrapageCSharp.views.AjouterCompte.resources
+C:\Users\Admin\Documents\c#\new\RattrapageCSharp\obj\Debug\RattrapageCSharp.views.FaireConsultation.resources
+C:\Users\Admin\Documents\c#\new\RattrapageCSharp\obj\Debug\RattrapageCSharp.views.FaireDepot.resources
+C:\Users\Admin\Documents\c#\new\RattrapageCSharp\obj\Debug\RattrapageCSharp.views.FaireRetrait.resources
+C:\Users\Admin\Documents\c#\new\RattrapageCSharp\obj\Debug\RattrapageCSharp.views.FaireVirement.resources
+C:\Users\Admin\Documents\c#\new\RattrapageCSharp\obj\Debug\RattrapageCSharp.views.ListerComptes.resources
